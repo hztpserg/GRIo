@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     console.log(secreta);
 
-    const maximoIntentos = 3;
+    const maximoIntentos = 4;
     const maxLetras = 6;
     const alfabeto = 'QWERTYUIOPASDFGHJKLÑZXCVBNM';
 
